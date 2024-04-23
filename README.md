@@ -115,8 +115,8 @@ Esta é a primeira página ao utilizar o comando `/thelp`, ao qual mostra todas 
 > ### 5.3 - Pivô
 > Comando | Atalho TS 2.1 | Descrição
 > -- | :--: | --
-> `/pivot` | - | <span style="color:orange">**NÃO FAÇO A MENOR IDEIA DO QUE ISSO FAZ 🤷🏻‍♂️.**
-> `/togpivot` | - | <span style="color:orange">**NÃO FAÇO A MENOR IDEIA DO QUE ISSO FAZ 🤷🏻‍♂️.**
+> `/pivot` | - | Seta uma posição pivô para rotacionar objetos.
+> `/togpivot` | - | Liga e desliga a rotação pivô.
 ***
 
 > ### 📲 6 - **Aba *Selection***
